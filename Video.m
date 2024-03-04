@@ -4,7 +4,7 @@ clc
 %Make the Below path as the Current Folder
 cd('D:\PhD\LBM\Carangiform Fish\Kinematics\Images2');
 
-%Obtain all the JPEG format files in the current folder
+%Obtain all the JPEG or PNG format files in the current folder
 Files = dir('*.png');
 
 
