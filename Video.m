@@ -2,7 +2,7 @@
 clear all
 clc
 %Make the Below path as the Current Folder
-cd('D:\PhD\LBM\Carangiform Fish\Kinematics\Images2');
+cd('D:\Folder');
 
 %Obtain all the JPEG or PNG format files in the current folder
 Files = dir('*.png');
